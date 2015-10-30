@@ -16,7 +16,7 @@ from Dotclear (nice but unwieldy) to Pelican (much better, more flexibility).
 
 Here's the screenshot:
 
-[Screenshot](screenshot.png)
+![Screenshot](screenshot.png)
 
 
 ## Changes
